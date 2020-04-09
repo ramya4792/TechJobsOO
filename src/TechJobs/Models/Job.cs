@@ -13,8 +13,7 @@
 
         public Job()
         {
-            ID = nextId;
-            nextId++;
+            ID = nextId++;
         }
 
     }
